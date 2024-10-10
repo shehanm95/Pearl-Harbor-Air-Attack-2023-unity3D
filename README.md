@@ -8,5 +8,6 @@ Check out this video footage of the gameplay! 🎥
 
 Check out the video of my game on LinkedIn: [Watch the Video](https://www.linkedin.com/feed/update/urn:li:activity:7250048979080519680/)
 
+## 🎥 Pearl Harbor Game Video
+[![Watch the Video](https://media.githubusercontent.com/media/shehanm95/Pearl-Harbor-Air-Attack-2023-unity3D/main/Assets/work%20size%20template-04.png)](https://www.linkedin.com/feed/update/urn:li:activity:7250048979080519680/)
 
-![Watch the Video](https://media.githubusercontent.com/media/shehanm95/Pearl-Harbor-Air-Attack-2023-unity3D/main/Assets/work%20size%20template-04.png)
